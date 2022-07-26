@@ -1,0 +1,1 @@
+# Dövüş Programına %50 İhtimal İle Kimin Başlayacağını Seçen Metot Eklendi.
